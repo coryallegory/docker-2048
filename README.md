@@ -2,7 +2,7 @@
 
 [![Docker Repository on Quay](https://quay.io/repository/coryallegory/docker-2048/status "Docker Repository on Quay")](https://quay.io/repository/coryallegory/docker-2048)
 
-A fork of [alexwhen's containerized version of 2048](https://github.com/alexwhen/docker-2048), but with multi-platform support (amd64 and arm64) and an automated pipeline.
+A fork of [alexwhen's containerized version of 2048](https://github.com/alexwhen/docker-2048), but with multi-platform support (amd64 and arm64).
 
 # run the docker container by pulling the image directly
 
